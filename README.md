@@ -2,7 +2,7 @@
 
 # 📖 Smart Cultural Storyteller
 
-An interactive cultural storytelling app for the **IIT Ropar Online Course** project.  
+An interactive cultural storytelling app.  
 It generates stories from curated Indian folktales, allows **region / theme / tone / audience selection**, and provides **interactive choices + audio playback**.
 
 ---
